@@ -1,3 +1,3 @@
-# AuroraFlow
+# AuroraServer
 
-AuroraFlow is an simple HTTP server written in C and C++.
+AuroraServer is an simple HTTP server written in C and C++.
